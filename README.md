@@ -5,4 +5,4 @@ Collection of scripts to help manage Zabbix
 Dependencies: https://github.com/express42/zabbixapi
 
 Usage:
-ruby zabbix-user-migrator.rb
+`ruby zabbix-user-migrator.rb`
