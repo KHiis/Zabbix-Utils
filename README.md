@@ -10,3 +10,12 @@ To do ideas: bringing in the functionality for syncer rather than migrator, so w
 
 Usage:
 `ruby zabbix-user-migrator.rb`
+
+## Zabbix Agent Easyinstall
+Dependencies: n/a
+
+Use cases: If you want to bootstrap nodes quickly without having the means of any configuration management tools such as chef or salt
+
+Usage: create the file in your node
+`chmod +x zabbix-agent-easyinstall.sh`
+`sh zabbix-agent-easyinstall.sh`
