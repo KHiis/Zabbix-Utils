@@ -17,5 +17,7 @@ Dependencies: n/a
 Use cases: If you want to bootstrap nodes quickly without having the means of any configuration management tools such as chef or salt
 
 Usage: create the file in your node
+
 `chmod +x zabbix-agent-easyinstall.sh`
+
 `sh zabbix-agent-easyinstall.sh`
