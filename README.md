@@ -12,7 +12,7 @@ Usage:
 `ruby zabbix-user-migrator.rb`
 
 ## Zabbix Agent Easyinstall
-Dependencies: n/a
+Dependencies: lsb-release package
 
 Use cases: If you want to bootstrap nodes quickly without having the means of any configuration management tools such as chef or salt
 
